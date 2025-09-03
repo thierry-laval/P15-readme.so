@@ -1,39 +1,39 @@
 # readme.so
 
-Readme.so is an online editor to help developers make readmes for their project.
+Readme.so est un éditeur en ligne qui aide les développeurs à créer des readmes pour leurs projets.
 
-Link to production site: [readme.so](https://readme.so)
+Lien vers le site en production : [readme.so](https://readme.so)
 
-## Features
+## Fonctionnalités
 
-- Choose from list of sections to add to your readme
-- Edit the contents of each section
-- Drag and drop to rearrange sections
-- Download your readme file
+- Choisir parmi une liste de sections à ajouter à votre readme
+- Modifier le contenu de chaque section
+- Réorganiser les sections par glisser-déposer
+- Télécharger votre fichier readme
 
-## Contributing
+## Contribution
 
-Contributions are always welcome!
+Les contributions sont toujours les bienvenues !
 
-See [CONTRIBUTING.md](/CONTRIBUTING.md) for ways to get started.
+Voir [CONTRIBUTING.md](/CONTRIBUTING.md) pour savoir comment commencer.
 
-## Tech Stack
+## Pile technologique
 
 - [Next.js](https://nextjs.org/)
 - [TailwindCSS](https://tailwindcss.com/)
 - [dnd kit](https://dndkit.com/)
 - [react-markdown](https://github.com/remarkjs/react-markdown)
 
-## Running the Dev Server
+## Lancer le serveur de développement
 
-To run the dev server, run `npm run dev` and navigate to `localhost:3000`
+Pour lancer le serveur de développement, exécutez `npm run dev` puis ouvrez `localhost:3000`
 
-## Feedback
+## Retours
 
-Feedback is appreciated! Reach out on [Twitter](https://twitter.com/katherinecodes) or submit a new issue!
+Vos retours sont les bienvenus ! Contactez-nous sur [Twitter](https://twitter.com/katherinecodes) ou soumettez une nouvelle issue !
 
-## License
+## Licence
 
 [MIT](/LICENSE)
 
-This readme was created with [readme.so](https://readme.so) :)
+Ce readme a été créé avec [readme.so](https://readme.so) :)
